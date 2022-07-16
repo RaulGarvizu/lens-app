@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Sample Lens app to illustrate usage of GraphQL Lens' API.
+
+It has been implemented following steps explained in [Nader Dabid's](https://www.youtube.com/c/naderdabit) video [at Youtube](https://www.youtube.com/watch?v=LcxOdWWL8xs).
+
+The application has been created with [Next.js](https://nextjs.org/) project, bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+UI components come from [Material UI library](https://mui.com/material-ui/getting-started/overview/)
 
 ## Getting Started
 
